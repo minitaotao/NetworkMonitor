@@ -1,0 +1,32 @@
+html body {
+    margin: 0;
+    overflow: hidden;
+}
+
+.cost {
+    font-size: 16px;
+    color: #138385;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.peer_count {
+    font-size: 20px;
+    color: #de3a0b;
+    margin: 0;
+    padding: 1rem;
+    text-align: center;
+}
+
+.overannounced-net{
+    color: #de3a0b;
+}
+    
+.unannounced-net{
+    color: #b0b0b0;
+}
+    
+.unassigned-net{
+    color: #138385;
+}
